@@ -1,0 +1,141 @@
+[
+  {
+    "name": "The Poppy War",
+    "author": "R. F. Kuang",
+    "year": 2018,
+    "amout": [
+      {
+        "inventory_number": 273645,
+        "availability": true,
+        "history": [
+          {
+            "reader": "Anna Smith",
+            "get_date": "2026-02-10",
+            "return_date": "2026-02-24"
+          },
+          {
+            "reader": "Maria Brown",
+            "get_date": "2026-04-05",
+            "return_date": "2026-04-19"
+          }
+        ]
+      },
+      {
+        "inventory_number": 829410,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Olivia Wilson",
+            "get_date": "2026-09-20",
+            "return_date": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "There is Land Beyond Perekop",
+    "author": "Anastasia Levkova",
+    "year": 2023,
+    "amout": [
+      {
+        "inventory_number": 982375,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Emma Davis",
+            "get_date": "2026-09-15",
+            "return_date": null
+          }
+        ]
+      },
+      {
+        "inventory_number": 873643,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Sophia Miller",
+            "get_date": "2026-09-28",
+            "return_date": null
+          }
+        ]
+      },
+      {
+        "inventory_number": 102983,
+        "availability": true,
+        "history": [
+          {
+            "reader": "James Taylor",
+            "get_date": "2026-03-01",
+            "return_date": "2026-03-12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "A Guided Tour of Math, from One to Infinity",
+    "author": "Steven Strogatz",
+    "year": 2012,
+    "amout": [
+      {
+        "inventory_number": 129428,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Daniel White",
+            "get_date": "2026-10-01",
+            "return_date": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": " Python for Kids",
+    "author": "Jason Briggs",
+    "year": 2022,
+    "amout": [
+      {
+        "inventory_number": 273567,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Lucas Martin",
+            "get_date": "2026-10-03",
+            "return_date": null
+          }
+        ]
+      },
+      {
+        "inventory_number": 923810,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Isabella Clark",
+            "get_date": "2026-10-06",
+            "return_date": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beowulf",
+    "author": "Unknown Author",
+    "year": null,
+    "amout": [
+      {
+        "inventory_number": 901238,
+        "availability": false,
+        "history": [
+          {
+            "reader": "Ethan Moore",
+            "get_date": "2026-10-08",
+            "return_date": null
+          }
+        ]
+      }
+    ]
+  }
+]
